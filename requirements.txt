@@ -1,0 +1,7 @@
+pandas
+mplfinance
+numpy
+plotly
+mplfinance
+datetime
+nbformat
