@@ -5,3 +5,6 @@ plotly
 mplfinance
 datetime
 nbformat
+scikit-learn
+seaborn
+statsmodels
